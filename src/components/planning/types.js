@@ -10,6 +10,7 @@ const largoableSlimeTypes = [
   { name: "Flutter Slime", image: "slimes/flutter.png" },
   { name: "Honey Slime", image: "slimes/honey.png" },
   { name: "Hunter Slime", image: "slimes/hunter.png" },
+  { name: "Hyper Slime", image: "slimes/hyper.png" },
   { name: "Phosphor Slime", image: "slimes/phosphor.png" },
   { name: "Pink Slime", image: "slimes/pink.png" },
   { name: "Ringtail Slime", image: "slimes/ringtail.png" },
@@ -50,6 +51,7 @@ export const veggieTypes = [
   { name: "Carrot", image: "veggies/carrot.png" },
   { name: "Heart Beat", image: "veggies/heartBeat.png" },
   { name: "Odd Onion", image: "veggies/oddOnion.png" },
+  { name: "Turbo Tater", image: "veggies/turboTater.png" },
   { name: "Water Lettuce", image: "veggies/waterLettuce.png" },
   placeholderType,
 ];
